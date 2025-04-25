@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+<<<<<<< HEAD
+=======
+.utmp/
+>>>>>>> 3d2be15796edd12d9b97228a4edc613fd1c8ccb1
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -70,4 +74,8 @@ crashlytics-build.properties
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
+<<<<<<< HEAD
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+=======
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+>>>>>>> 3d2be15796edd12d9b97228a4edc613fd1c8ccb1
